@@ -1,0 +1,35 @@
+@use "variables.scss" as *;
+
+@mixin flex($align-items:stretch, $justify-content:flex-start) {
+    display: flex;
+    align-items: $align-items;
+    justify-content: $justify-content;
+};
+
+@mixin main($height, $background-color:#FFFFFF) {
+    min-height: $height;
+    background-color: $background-color;
+    @include flex(center, center);
+};
+
+@mixin text($font-family, $font-weight:400, $font-size:16px, $line-height:100%, $color:#1F1F1F) {
+    font-family: $font-family;
+    font-weight: $font-weight;
+    font-size: $font-size;
+    line-height: $line-height;
+    color: $color;
+};
+
+@mixin button-a($height, $width, $background-color, $color-button, $size:17px) {
+    height: $height;
+    width: $width;
+    background-color: $background-color;
+
+    a {
+        @include text($inter, $font-size:$size, $color:$color-button);
+    }
+
+    &.flex {
+        @include flex(center);
+    }
+}
