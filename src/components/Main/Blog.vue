@@ -7,7 +7,7 @@
             </div>
             <div class="blog">
                 <div class="blog_content">
-                    <img src="C:\Users\user\Desktop\Whirl\whirl\src\img\Main\Blog\IMAGE (15).png" alt="фото">
+                    <img src="..\..\img\Main\Blog\IMAGE (15).png" alt="фото">
                     <div class="desc_content">
                         <p>Improvements</p>
                         <h2>Automating Daily Tasks from Your Phone</h2>
@@ -16,7 +16,7 @@
                     </div>
                 </div>
                 <div class="blog_content">
-                    <img src="C:\Users\user\Desktop\Whirl\whirl\src\img\Main\Blog\IMAGE (16).png" alt="фото">
+                    <img src="..\..\img\Main\Blog\IMAGE (16).png" alt="фото">
                     <div class="desc_content">
                         <p>Tips & Tricks</p>
                         <h2>Can You Automate Group Learning?</h2>
@@ -25,7 +25,7 @@
                     </div>
                 </div>
                 <div class="blog_content">
-                    <img src="C:\Users\user\Desktop\Whirl\whirl\src\img\Main\Blog\IMAGE (17).png" alt="фото">
+                    <img src="..\..\img\Main\Blog\IMAGE (17).png" alt="фото">
                     <div class="desc_content">
                         <p>News</p>
                         <h2>Our $3,000,000 B Round Investors</h2>

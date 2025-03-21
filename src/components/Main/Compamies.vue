@@ -3,10 +3,10 @@
         <div class="conteiner">
             <h1>Trusted by 50,000+ companies</h1>
             <div class="companies">
-                <img src="C:\Users\user\Desktop\Whirl\whirl\src\img\Main\Companies\IMAGE (3).png" alt="companies1">
-                <img src="C:\Users\user\Desktop\Whirl\whirl\src\img\Main\Companies\IMAGE (4).png" alt="companies2">
-                <img src="C:\Users\user\Desktop\Whirl\whirl\src\img\Main\Companies\IMAGE (5).png" alt="companies3">
-                <img src="C:\Users\user\Desktop\Whirl\whirl\src\img\Main\Companies\IMAGE (6).png" alt="companies4">
+                <img src="..\..\img\Main\Companies\IMAGE (3).png" alt="companies1">
+                <img src="..\..\img\Main\Companies\IMAGE (4).png" alt="companies2">
+                <img src="..\..\img\Main\Companies\IMAGE (5).png" alt="companies3">
+                <img src="..\..\img\Main\Companies\IMAGE (6).png" alt="companies4">
             </div>
         </div>
     </section>

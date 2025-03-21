@@ -2,7 +2,7 @@
     <header>
         <div class="conteiner_content flex-sb">
             <div class="way_content">
-                <img src="C:\Users\user\Desktop\Whirl\whirl\src\img\Header\IMAGE.png" alt="logo">
+                <img src="..\img\Header\IMAGE.png" alt="logo">
                 <nav class="nav_content">
                     <a href="#">Features</a>
                     <a href="#">Pricing</a>

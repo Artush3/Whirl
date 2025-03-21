@@ -3,7 +3,7 @@
         <div class="conteiner_content">
             <div class="nav_content_footer">
                 <div class="builder">
-                    <img src="C:\Users\user\Desktop\Whirl\whirl\src\img\Header\IMAGE.png" alt="фото">
+                    <img src="..\img\Header\IMAGE.png" alt="фото">
                     <p>Built by <span>Nikolai Bain</span>.</p>
                     <p>Powered by <span>Webflow</span>.</p>
                 </div>
@@ -31,7 +31,7 @@
                         <h2>Sign up for the latest news, company insights, and Whirl updates.</h2>
                         <div class="input_content">
                             <input type="text" placeholder="Your email">
-                            <img src="C:\Users\user\Desktop\Whirl\whirl\src\img\Main\Automation\IMAGE (1).png" alt="">
+                            <img src="..\img\Automation\IMAGE (1).png" alt="">
                         </div>
                     </div>
                 </div>
@@ -40,9 +40,9 @@
             <div class="nav">
                 <p>© 2022 Whirl. All Rights Reserved. Illustrations by <span>Streamline</span>.</p>
                 <div class="vav_social">
-                    <img src="C:\Users\user\Desktop\Whirl\whirl\src\img\Footer\Frame (1).png" alt="фото">
-                    <img src="C:\Users\user\Desktop\Whirl\whirl\src\img\Footer\Frame (2).png" alt="фото">
-                    <img src="C:\Users\user\Desktop\Whirl\whirl\src\img\Footer\Frame (3).png" alt="фото">
+                    <img src="..\img\Footer\Frame (1).png" alt="фото">
+                    <img src="..\img\Footer\Frame (2).png" alt="фото">
+                    <img src="..\img\Footer\Frame (3).png" alt="фото">
                 </div>
             </div>
         </div>

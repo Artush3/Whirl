@@ -7,11 +7,11 @@
                 <button><a href="#">Book a demo</a></button>
                 <div class="conditions">
                     <div class="conditions_content">
-                        <img src="C:\Users\user\Desktop\Whirl\whirl\src\img\Main\Start\Vector (1).png" alt="">
+                        <img src="..\..\img\Main\Start\Vector (1).png" alt="">
                         <p>Free 30-day trial</p>
                     </div>
                     <div class="conditions_content">
-                        <img src="C:\Users\user\Desktop\Whirl\whirl\src\img\Main\Start\Vector (1).png" alt="">
+                        <img src="..\..\img\Main\Start\Vector (1).png" alt="">
                         <p>No credit-card required</p>
                     </div>
                 </div>

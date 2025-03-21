@@ -1,20 +1,20 @@
 <template>
     <section>
         <div class="conteiner_content flex-sb">
-            <img src="C:\Users\user\Desktop\Whirl\whirl\src\img\Main\Set\IMAGE (13).png" alt="фото">
+            <img src="..\..\img\Main\Set\IMAGE (13).png" alt="фото">
             <div class="desc">
                 <h1>Set, forget, and then<br> track.</h1>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit,<br> sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
                 <div class="advantages">
-                    <img src="C:\Users\user\Desktop\Whirl\whirl\src\img\Main\Set\Vector.png" alt="advantages">
+                    <img src="..\..\img\Main\Set\Vector.png" alt="advantages">
                     <p>Understand your options</p>
                 </div>
                 <div class="advantages">
-                    <img src="C:\Users\user\Desktop\Whirl\whirl\src\img\Main\Set\Vector.png" alt="advantages">
+                    <img src="..\..\img\Main\Set\Vector.png" alt="advantages">
                     <p>No lock-ins</p>
                 </div>
                 <div class="advantages">
-                    <img src="C:\Users\user\Desktop\Whirl\whirl\src\img\Main\Set\Vector.png" alt="advantages">
+                    <img src="..\..\img\Main\Set\Vector.png" alt="advantages">
                     <p>You own the shares</p>
                 </div>
                 <button><a href="#">Book a demo</a></button>

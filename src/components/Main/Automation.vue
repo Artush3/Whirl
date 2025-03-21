@@ -8,11 +8,11 @@
                     <button><a href="#">Book a demo</a></button>
                     <button class="flex">
                         <a href="#">Learn more</a>
-                        <img src="C:\Users\user\Desktop\Whirl\whirl\src\img\Main\Automation\IMAGE (1).png" alt="дearn more">
+                        <img src="..\..\img\Main\Automation\IMAGE (1).png" alt="дearn more">
                     </button>
                 </div>
             </div>
-            <img src="C:\Users\user\Desktop\Whirl\whirl\src\img\Main\Automation\IMAGE (2).png" alt="картина">
+            <img src="..\..\img\Main\Automation\IMAGE (2).png" alt="картина">
         </div>
     </section>
 </template>

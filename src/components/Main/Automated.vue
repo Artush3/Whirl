@@ -7,22 +7,22 @@
             </div>
             <div class="advanteges">
                 <div class="content_advanteges">
-                    <img src="C:\Users\user\Desktop\Whirl\whirl\src\img\Main\Automated\Снимок экрана 2022-07-25 в 00.05 1.png" alt="фото">
+                    <img src="..\..\img\Main\Automated\Снимок экрана 2022-07-25 в 00.05 1.png" alt="фото">
                     <h2>Learn your options.</h2>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</p>
                 </div>
                 <div class="content_advanteges">
-                    <img src="C:\Users\user\Desktop\Whirl\whirl\src\img\Main\Automated\IMAGE (14).png" alt="фото">
+                    <img src="..\..\img\Main\Automated\IMAGE (14).png" alt="фото">
                     <h2>Stay informed.</h2>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et doloretro.</p>
                 </div>
                 <div class="content_advanteges">
-                    <img src="C:\Users\user\Desktop\Whirl\whirl\src\img\Main\Automated\Снимок экрана 2022-07-25 в 00.06 1.png" alt="фото">
+                    <img src="..\..\img\Main\Automated\Снимок экрана 2022-07-25 в 00.06 1.png" alt="фото">
                     <h2>Automate it all.</h2>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor ipsum.</p>
                 </div>
                 <div class="content_advanteges">
-                    <img src="C:\Users\user\Desktop\Whirl\whirl\src\img\Main\Automated\Снимок экрана 2022-07-25 в 00.06 2.png" alt="фото">
+                    <img src="..\..\img\Main\Automated\Снимок экрана 2022-07-25 в 00.06 2.png" alt="фото">
                     <h2>Stay informed.</h2>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod incididunt ut labore et consectetur.</p>
                 </div>

@@ -8,12 +8,12 @@
                     <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
                 </div>
                 <div class="about_content">
-                    <img src="C:\Users\user\Desktop\Whirl\whirl\src\img\Main\Whats\IMAGE (11).png" alt="about1">
+                    <img src="..\..\img\Main\Whats\IMAGE (11).png" alt="about1">
                     <h2>Get daily alerts.</h2>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.</p>
                 </div>
                 <div class="about_content">
-                    <img src="C:\Users\user\Desktop\Whirl\whirl\src\img\Main\Whats\IMAGE (12).png" alt="about2">
+                    <img src="..\..\img\Main\Whats\IMAGE (12).png" alt="about2">
                     <h2>Safe and secure.</h2>
                     <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
                 </div>
